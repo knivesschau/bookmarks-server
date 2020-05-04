@@ -10,7 +10,7 @@ bookmarksRouter
     .get((req,res) => {
 
     })
-    .post((req, res) => {
+    .post(bodyParser, (req, res) => {
 
     });
 
