@@ -1,1 +1,1 @@
-Bookmarks API Server Assignment for Thinkful Checkpoint 17.10
+Bookmarks API Server Assignemnt (Module 17)
